@@ -1,5 +1,0 @@
-{
-  "name": "quotes",
-  "types": "./quotes.d.ts",
-  "main": "./quotes.cjs"
-}
